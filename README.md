@@ -7,17 +7,18 @@
 <p>🌐 **Website Creation**: We design sleek, user-friendly websites tailored for the restaurant industry, capturing the unique essence of each client.</p> 
 <p>🤖 **Automation**: Streamline operations with our custom automation tools, freeing up time from repetitive tasks so teams can focus on delivering quality.</p>
 
-<h1 align="center">Hola 👋, somos DigiCore</h1> 
-<p align="center">Una apasionada empresa de tecnología de la información desde Costa Rica</p> 
-<p>🌐 **Creación de Sitios Web**: Diseñamos sitios web elegantes y fáciles de usar, especialmente para la industria de restaurantes, capturando la esencia única de cada cliente.</p> 
-<p>🤖 **Automatización**: Optimiza tus operaciones con nuestras herramientas de automatización personalizadas, eliminando tareas repetitivas y permitiendo que los equipos se concentren en brindar calidad.</p>
-
 ```txt
 Why Choose DigiCore?
 With a passion for innovation and a deep understanding of our
 clients' needs, DigiCore offers tailored tech solutions that
 empower businesses to thrive in a competitive market.
 
+<h1 align="center">Hola 👋, somos DigiCore</h1> 
+<p align="center">Una apasionada empresa de tecnología de la información desde Costa Rica</p> 
+<p>🌐 **Creación de Sitios Web**: Diseñamos sitios web elegantes y fáciles de usar, especialmente para la industria de restaurantes, capturando la esencia única de cada cliente.</p> 
+<p>🤖 **Automatización**: Optimiza tus operaciones con nuestras herramientas de automatización personalizadas, eliminando tareas repetitivas y permitiendo que los equipos se concentren en brindar calidad.</p>
+
+```txt
 ¿Por qué elegir DigiCore?
 Con pasión por la innovación y un profundo entendimiento de las necesidades
 de nuestros clientes, DigiCore ofrece soluciones tecnológicas personalizadas
