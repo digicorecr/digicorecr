@@ -12,6 +12,7 @@ Why Choose DigiCore?
 With a passion for innovation and a deep understanding of our
 clients' needs, DigiCore offers tailored tech solutions that
 empower businesses to thrive in a competitive market.
+```
 
 <h1 align="center">Hola 👋, somos DigiCore</h1> 
 <p align="center">Una apasionada empresa de tecnología de la información desde Costa Rica</p> 
@@ -22,7 +23,7 @@ empower businesses to thrive in a competitive market.
 ¿Por qué elegir DigiCore?
 Con pasión por la innovación y un profundo entendimiento de las necesidades
 de nuestros clientes, DigiCore ofrece soluciones tecnológicas personalizadas
- que permiten a las empresas prosperar en un mercado competitivo.
+que permiten a las empresas prosperar en un mercado competitivo.
 ```
 
 #### How to reach me
