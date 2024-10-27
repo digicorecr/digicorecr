@@ -9,7 +9,9 @@
 
 ```txt
 Why Choose DigiCore?
-With a passion for innovation and a deep understanding of our clients' needs, DigiCore offers tailored tech solutions that empower businesses to thrive in a competitive market.
+With a passion for innovation and a deep understanding of our
+clients' needs, DigiCore offers tailored tech solutions that
+empower businesses to thrive in a competitive market.
 ```
 
 #### How to reach me
