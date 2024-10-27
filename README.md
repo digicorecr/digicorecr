@@ -25,7 +25,7 @@ empower businesses to thrive in a competitive market.
 ```txt
 ¿Por qué elegir DigiCore?
 DigiCore es una empresa de tecnología de la información con visión de futuro,
- dedicada a empoderar a las empresas a través de la innovación digital y soluciones personalizadas.
+dedicada a empoderar a las empresas a través de la innovación digital y soluciones personalizadas.
 
 Con pasión por la innovación y un profundo entendimiento de las necesidades
 de nuestros clientes, DigiCore ofrece soluciones tecnológicas personalizadas
