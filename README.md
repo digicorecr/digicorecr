@@ -34,7 +34,7 @@ que permiten a las empresas prosperar en un mercado competitivo.
 
 #### How to reach me
 - 📫 Email / Correo Electrónico: **digicore2030@gmail.com**
-- 📞 Phone / Teléfono: **+506 84006669**
+- 📞 Phone / Teléfono: **+506 71260048**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
